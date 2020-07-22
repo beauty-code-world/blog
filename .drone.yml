@@ -1,0 +1,38 @@
+kind: pipeline
+name: auto
+type: docker
+
+steps:
+- name: build
+  pull: if-not-exists
+  image: plugins/hugo
+  settings:
+    hugo_version: 0.74.2
+    url: https://foo.com
+    validate: true
+  when:
+    branch:
+      - master
+
+- name: publish
+  image: gvacaliuc/drone-gh-pages
+  settings:
+    pages_directory: public
+    upstream_name: https://github.com/beauty-code-world/blog.git
+    target_branch: gh-pages
+    force_push: true
+    username: zhu2688
+    password:
+      from_secret: gh_password
+  when:
+    branch:
+      - master
+    status:
+       - failure
+       - success
+trigger:
+  branch:
+  - master
+  - release
+  event:
+  - push
