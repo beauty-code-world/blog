@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://beauty-code-world.github.io/blog/features/linux/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beauty-code-world.github.io/blog/features/mac/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beauty-code-world.github.io/blog/features/routing/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beauty-code-world.github.io/blog/features/ubuntu/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beauty-code-world.github.io/blog/features/windows/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beauty-code-world.github.io/blog/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beauty-code-world.github.io/blog/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://beauty-code-world.github.io/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://beauty-code-world.github.io/blog/features/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beauty-code-world.github.io/blog/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beauty-code-world.github.io/blog/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://beauty-code-world.github.io/blog/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://beauty-code-world.github.io/blog/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://beauty-code-world.github.io/blog/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://beauty-code-world.github.io/blog/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beauty-code-world.github.io/blog/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://beauty-code-world.github.io/blog/tags/"
+                />
+  </url>
+  
+</urlset>

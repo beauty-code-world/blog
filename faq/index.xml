@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frequently Asked Questions on BCW知识库</title>
+    <link>https://beauty-code-world.github.io/blog/faq/</link>
+    <description>Recent content in Frequently Asked Questions on BCW知识库</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright> copyright © [gethugothemes](https://gethugothemes.com/) 2020.</copyright>
+    
+	<atom:link href="https://beauty-code-world.github.io/blog/faq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
