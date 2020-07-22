@@ -8,7 +8,7 @@ steps:
   image: plugins/hugo
   settings:
     hugo_version: 0.74.2
-    url: https://foo.com
+    url: https://beauty-code-world.github.io/blog
     validate: true
   when:
     branch:
